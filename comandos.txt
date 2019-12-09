@@ -1,0 +1,4 @@
+---instalar biblioteca gensim
+pip install -U gensim
+--instalar word2vec
+pip install word2vec
